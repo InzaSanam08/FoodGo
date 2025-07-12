@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodgo/splash_screen.dart';
+import 'package:foodgo/screens/splash_screen/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
